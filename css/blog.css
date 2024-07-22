@@ -1,0 +1,16 @@
+#blog{
+    color: black;
+    font-size: 40px;
+    text-decoration: underline;
+}
+p{
+    font-size: 40px;
+    color: whitesmoke;
+}
+img{
+    height: 300px;
+    width: 430px;
+}
+body{
+    background-color: skyblue;
+}

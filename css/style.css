@@ -1,0 +1,17 @@
+#paint{
+    color: red;
+    font-size: 200px;
+}
+p{
+    background-color: brown;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+.font-size{
+    font-size: 30px;
+}
+body{
+    background-color: orange;
+}
